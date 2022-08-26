@@ -1,0 +1,414 @@
+- id: 1100
+  level: 1
+  icon: icon-homepage
+  path: /main/homepage
+  name: sideBar.homepage
+  expand: false
+  meta:
+    title: sideBar.homepage
+- id: 1000
+  level: 1
+  icon: icon-overview
+  path: /main/overview
+  name: sideBar.overview
+  expand: false
+  meta:
+    title: sideBar.overview/sideBar.overview
+- id: 2500
+  level: 1
+  icon: icon-device-management
+  expand: false
+  path: /main/device-management/configurations/devices
+  name: sideBar.deviceManagement.configurations.devices
+  meta:
+    title: sideBar.deviceManagement/sideBar.deviceManagement
+- id: 252030
+  level: 1
+  path: /main/device-management/configurations/monitoring-item-templates
+  name: sideBar.deviceManagement.configurations.monitoringItemTemplates
+  meta:
+    title: sideBar.deviceManagement/sideBar.deviceManagement
+  expand: false
+- id: 1530
+  level: 2
+  path: /main/views/route-maps
+  name: sideBar.views.routeMaps
+  meta:
+    title: sideBar.views/sideBar.views.routeMaps
+- id: 2010
+  level: 2
+  path: /main/alert-center/messages
+  name: sideBar.alertCenter.messages
+  meta:
+    title: sideBar.alertCenter/sideBar.alertCenter.messages
+- id: 2020
+  level: 2
+  path: /main/alert-center/records
+  name: sideBar.alertCenter.records
+  meta:
+    title: sideBar.alertCenter/sideBar.alertCenter.records
+- id: 2030
+  level: 2
+  path: /main/alert-center/history
+  name: sideBar.alertCenter.history
+  meta:
+    title: sideBar.alertCenter/sideBar.alertCenter.history
+- id: 3010
+  level: 2
+  path: /main/business-management/list
+  name: sideBar.businessManagement.list
+  meta:
+    title: sideBar.businessManagement/sideBar.businessManagement.list
+- id: 3020
+  level: 2
+  path: /main/business-management/blocks
+  name: sideBar.businessManagement.blocks
+  meta:
+    title: sideBar.businessManagement/sideBar.businessManagement.blocks
+- id: 3030
+  level: 2
+  path: /main/business-management/analysis
+  name: sideBar.businessManagement.analysis
+  meta:
+    title: sideBar.businessManagement/sideBar.businessManagement.analysis
+- id: 3540
+  level: 2
+  path: /main/network-management/network-topology
+  name: sideBar.networkManagement.networkTopology
+  meta:
+    title: sideBar.networkManagement/sideBar.networkManagement.networkTopology
+- id: 3530
+  level: 2
+  name: sideBar.networkManagement.iPAddresses
+  path: /main/network-management/iPAddresses/list
+  meta:
+    title: sideBar.networkManagement/sideBar.networkManagement.iPAddresses
+- id: 4510
+  level: 2
+  path: /main/server-room-management/dynamic-ring-room-dashboard
+  name: sideBar.serverRoomManagement.dynamicRingRoomDashboard
+  meta:
+    title: >-
+      sideBar.serverRoomManagement/sideBar.serverRoomManagement.dynamicRingRoomDashboard
+- id: 4520
+  level: 2
+  path: /main/server-room-management/room-overview
+  name: sideBar.serverRoomManagement.roomOverview
+  meta:
+    title: sideBar.serverRoomManagement/sideBar.serverRoomManagement.roomOverview
+- id: 4530
+  level: 2
+  path: /main/server-room-management/3D-room
+  name: sideBar.serverRoomManagement.3DRoom
+  meta:
+    title: sideBar.serverRoomManagement/sideBar.serverRoomManagement.3DRoom
+- id: 4550
+  level: 2
+  path: /main/server-room-management/cabinet-capacity-management/index
+  name: sideBar.serverRoomManagement.cabinetCapacityManagement
+  meta:
+    title: >-
+      sideBar.serverRoomManagement/sideBar.serverRoomManagement.cabinetCapacityManagement
+- id: 4540
+  level: 2
+  path: /main/server-room-management/room-management
+  name: sideBar.serverRoomManagement.roomManagement
+  meta:
+    title: sideBar.serverRoomManagement/sideBar.serverRoomManagement.roomManagement
+- id: 4560
+  level: 2
+  path: /main/server-room-management/device-management
+  name: sideBar.serverRoomManagement.devManagement
+  meta:
+    title: sideBar.serverRoomManagement/sideBar.serverRoomManagement.devManagement
+- id: 4570
+  level: 2
+  path: /main/server-room-management/wiring-management
+  name: sideBar.serverRoomManagement.wiringManagement
+  meta:
+    title: sideBar.serverRoomManagement/sideBar.serverRoomManagement.wiringManagement
+- id: 5520
+  level: 2
+  path: /main/om/knowledge-base
+  name: sideBar.om.knowledgeBase
+  meta:
+    title: sideBar.om/sideBar.om.knowledgeBase
+- id: 6560
+  level: 2
+  path: /main/smart-tools/tags
+  name: sideBar.smartTools.tags
+  meta:
+    title: sideBar.smartTools/sideBar.smartTools.tags
+- id: 6570
+  level: 2
+  path: /main/smart-tools/units
+  name: sideBar.smartTools.units
+  meta:
+    title: sideBar.smartTools/sideBar.smartTools.units
+- id: 7520
+  level: 2
+  path: /main/settings/system
+  name: sideBar.settings.system
+  meta:
+    title: sideBar.settings/sideBar.settings.system
+- id: 7530
+  level: 2
+  path: /main/settings/task-plans
+  name: sideBar.settings.taskPlans
+  meta:
+    title: sideBar.settings/sideBar.settings.taskPlans
+- id: 7590
+  level: 2
+  path: /main/settings/snmpsetting
+  name: sideBar.settings.snmpSetting
+  meta:
+    title: sideBar.settings/sideBar.settings.snmpSetting
+- id: 7570
+  level: 2
+  path: /main/settings/collection-cluster
+  name: sideBar.deviceManagement.configurations.collectionCluster
+  meta:
+    title: sideBar.settings/sideBar.settings.collectionCluster
+- id: 7580
+  level: 2
+  path: /main/settings/userSettings/device
+  name: sideBar.settings.device
+  meta:
+    title: sideBar.settings/sideBar.settings.device
+- id: 151010
+  level: 3
+  path: /main/views/dashboard/index
+  name: sideBar.views.dashboard.deviceDashboard
+  meta:
+    title: >-
+      sideBar.views/sideBar.views.dashboard/sideBar.views.dashboard.deviceDashboard
+    params: DeviceDashboard
+- id: 151040
+  level: 3
+  path: /main/views/dashboard/my-dashboard
+  name: sideBar.views.dashboard.myDashboard
+  meta:
+    title: sideBar.views/sideBar.views.dashboard/sideBar.views.dashboard.myDashboard
+- id: 204010
+  level: 3
+  path: /main/alert-center/configurations/rules
+  name: sideBar.alertCenter.configurations.rules
+  meta:
+    title: >-
+      sideBar.alertCenter/sideBar.alertCenter.configurations/sideBar.alertCenter.configurations.rules
+- id: 204020
+  level: 3
+  path: /main/alert-center/configurations/templates
+  name: sideBar.alertCenter.configurations.templates
+  meta:
+    title: >-
+      sideBar.alertCenter/sideBar.alertCenter.configurations/sideBar.alertCenter.configurations.templates
+- id: 204030
+  level: 3
+  path: /main/alert-center/configurations/emails
+  name: sideBar.alertCenter.configurations.emails
+  meta:
+    title: >-
+      sideBar.alertCenter/sideBar.alertCenter.configurations/sideBar.alertCenter.configurations.emails
+- id: 204040
+  level: 3
+  path: /main/alert-center/configurations/sms
+  name: sideBar.alertCenter.configurations.sMS
+  meta:
+    title: >-
+      sideBar.alertCenter/sideBar.alertCenter.configurations/sideBar.alertCenter.configurations.sMS
+- id: 204050
+  level: 3
+  path: /main/alert-center/configurations/level
+  name: sideBar.alertCenter.configurations.level
+  meta:
+    title: >-
+      sideBar.alertCenter/sideBar.alertCenter.configurations/sideBar.alertCenter.configurations.level
+- id: 355010
+  level: 3
+  path: /main/network-management/configurations/monitor
+  name: sideBar.networkManagement.Configurations.monitor
+  meta:
+    title: >-
+      sideBar.networkManagement/sideBar.networkManagement.Configurations/sideBar.networkManagement.Configurations.monitor
+- id: 355020
+  level: 3
+  path: /main/network-management/configurations/statistics
+  name: sideBar.networkManagement.Configurations.statistics
+  meta:
+    title: >-
+      sideBar.networkManagement/sideBar.networkManagement.Configurations/sideBar.networkManagement.Configurations.statistics
+- id: 355030
+  level: 3
+  path: /main/network-management/configurations/operationSearch
+  name: sideBar.networkManagement.Configurations.operationSearch
+  meta:
+    title: >-
+      sideBar.networkManagement/sideBar.networkManagement.Configurations/sideBar.networkManagement.Configurations.operationSearch
+- id: 355040
+  level: 3
+  path: /main/network-management/configurations/setting
+  name: sideBar.networkManagement.Configurations.setting
+  meta:
+    title: >-
+      sideBar.networkManagement/sideBar.networkManagement.Configurations/sideBar.networkManagement.Configurations.setting
+- id: 351020
+  level: 3
+  path: /main/network-management/traffic/monitoring
+  name: sideBar.networkManagement.traffic.monitoring
+  meta:
+    title: >-
+      sideBar.networkManagement/sideBar.networkManagement.traffic/sideBar.networkManagement.traffic.monitoring
+- id: 351030
+  level: 3
+  path: /main/network-management/traffic/settings
+  name: sideBar.networkManagement.traffic.settings
+  meta:
+    title: >-
+      sideBar.networkManagement/sideBar.networkManagement.traffic/sideBar.networkManagement.traffic.settings
+- id: 551010
+  level: 3
+  path: /main/om/tickets/overview
+  name: sideBar.om.tickets.overview
+  meta:
+    title: sideBar.om/sideBar.om.tickets/sideBar.om.tickets.overview
+- id: 551020
+  level: 3
+  path: /main/om/tickets/task
+  name: sideBar.om.tickets.iTask
+  meta:
+    title: sideBar.om/sideBar.om.tickets/sideBar.om.tickets.iTask
+- id: 551030
+  level: 3
+  path: /main/om/tickets/i-handled
+  name: sideBar.om.tickets.iHandled
+  meta:
+    title: sideBar.om/sideBar.om.tickets/sideBar.om.tickets.iHandled
+- id: 551040
+  level: 3
+  path: /main/om/tickets/i-created
+  name: sideBar.om.tickets.iCreated
+  meta:
+    title: sideBar.om/sideBar.om.tickets/sideBar.om.tickets.iCreated
+- id: 551050
+  level: 3
+  path: /main/om/tickets/unassigned
+  name: sideBar.om.tickets.unassigned
+  meta:
+    title: sideBar.om/sideBar.om.tickets/sideBar.om.tickets.unassigned
+- id: 551060
+  level: 3
+  path: /main/om/tickets/data
+  name: sideBar.om.tickets.data
+  meta:
+    title: sideBar.om/sideBar.om.tickets/sideBar.om.tickets.data
+- id: 551070
+  level: 3
+  path: /main/om/tickets/information-settings
+  name: sideBar.om.tickets.informationSettings
+  meta:
+    title: sideBar.om/sideBar.om.tickets/sideBar.om.tickets.informationSettings
+- id: 551080
+  level: 3
+  path: /main/om/tickets/sla-settings
+  name: sideBar.om.tickets.sLASettings
+  meta:
+    title: sideBar.om/sideBar.om.tickets/sideBar.om.tickets.sLASettings
+- id: 601010
+  level: 3
+  path: /main/reports/devices/realtime
+  name: sideBar.reports.devices.realtime
+  meta:
+    title: sideBar.reports/sideBar.reports.devices/sideBar.reports.devices.realtime
+- id: 601020
+  level: 3
+  path: /main/reports/devices/top-n
+  name: sideBar.reports.devices.topN
+  meta:
+    title: sideBar.reports/sideBar.reports.devices/sideBar.reports.devices.topN
+- id: 601030
+  level: 3
+  path: /main/reports/devices/statistics
+  name: sideBar.reports.devices.statistics
+  meta:
+    title: sideBar.reports/sideBar.reports.devices/sideBar.reports.devices.statistics
+- id: 601040
+  level: 3
+  path: /main/reports/devices/traffic
+  name: sideBar.reports.devices.traffic
+  meta:
+    title: sideBar.reports/sideBar.reports.devices/sideBar.reports.devices.traffic
+- id: 601050
+  level: 3
+  path: /main/reports/devices/server
+  name: sideBar.reports.devices.server
+  meta:
+    title: sideBar.reports/sideBar.reports.devices/sideBar.reports.devices.server
+- id: 601060
+  level: 3
+  path: /main/reports/devices/network
+  name: sideBar.reports.devices.network
+  meta:
+    title: sideBar.reports/sideBar.reports.devices/sideBar.reports.devices.network
+- id: 602010
+  level: 3
+  path: /main/reports/warnings/failures
+  name: sideBar.reports.warnings.failures
+  meta:
+    title: sideBar.reports/sideBar.reports.warnings/sideBar.reports.warnings.failures
+- id: 652010
+  level: 3
+  path: /main/smart-tools/inspection/inspection-reports
+  name: sideBar.smartTools.inspection.inspectionReports
+  meta:
+    title: >-
+      sideBar.smartTools/sideBar.smartTools.inspection/sideBar.smartTools.inspection.inspectionReports
+- id: 652020
+  level: 3
+  path: /main/smart-tools/inspection/inspection-plans
+  name: sideBar.smartTools.inspection.inspectionPlans
+  meta:
+    title: >-
+      sideBar.smartTools/sideBar.smartTools.inspection/sideBar.smartTools.inspection.inspectionPlans
+- id: 659010
+  level: 3
+  path: /main/smart-tools/scheduling-management/attendance-management
+  name: sideBar.smartTools.schedulingManagement.attendanceManagement
+  meta:
+    title: >-
+      sideBar.smartTools/sideBar.smartTools.schedulingManagement/sideBar.smartTools.schedulingManagement.attendanceManagement
+- id: 659020
+  level: 3
+  path: /main/smart-tools/scheduling-management/scheduling-plan
+  name: sideBar.smartTools.schedulingManagement.schedulingPlan
+  meta:
+    title: >-
+      sideBar.smartTools/sideBar.smartTools.schedulingManagement/sideBar.smartTools.schedulingManagement.schedulingPlan
+- id: 659030
+  level: 3
+  path: /main/smart-tools/scheduling-management/class-schedule
+  name: sideBar.smartTools.schedulingManagement.classSchedule
+  meta:
+    title: >-
+      sideBar.smartTools/sideBar.smartTools.schedulingManagement/sideBar.smartTools.schedulingManagement.classSchedule
+- id: 751010
+  level: 3
+  path: /main/settings/userSettings/users
+  name: sideBar.settings.userSettings.users
+  meta:
+    title: >-
+      sideBar.settings/sideBar.settings.userSettings/sideBar.settings.userSettings.users
+- id: 751020
+  level: 3
+  path: /main/settings/userSettings/userGroup
+  name: sideBar.settings.userSettings.userGroup
+  meta:
+    title: >-
+      sideBar.settings/sideBar.settings.userSettings/sideBar.settings.userSettings.userGroup
+- id: 751030
+  level: 3
+  path: /main/settings/userSettings/role
+  name: sideBar.settings.userSettings.role
+  meta:
+    title: >-
+      sideBar.settings/sideBar.settings.userSettings/sideBar.settings.userSettings.role

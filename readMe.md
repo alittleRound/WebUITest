@@ -1,5 +1,6 @@
 ## 采用PO模式设计的Web UI自动化测试框架
 ## 通过Selenium＋Pytest实现
+## 新手友好！！注释详细！！
 
 ### 结构如下：
 - Base:封装Selenium

@@ -1,0 +1,8 @@
+testcase_001:
+- name: admin
+- pwd: admin
+- status: 1
+testcase_002:
+- name: not_user
+- pwd: 12345
+- status: 0
